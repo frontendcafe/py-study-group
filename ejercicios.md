@@ -2,7 +2,7 @@
 En este Markdown, iremos poniendo todos los ejercicios que deberán hacer. Si hay dudas, consulten en el canal!
 
 <p align="center">
-  <a href="https://discord.gg/frontendcafe">
+  <a href="https://discord.gg/frontendcafe" target="_blank">
 	<img alt="FrontendCafe" src=".\imgs\channel-discord.jpg">
   </a>
 </p>
