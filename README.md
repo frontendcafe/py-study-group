@@ -12,7 +12,7 @@ La metodología que usaremos es la siguiente:
 Entre todos vamos a aprender este hermoso lenguaje!
 
 ## Autores ✒️
-- **Javier Rodriguez** | GitHub: @JaviCeRodriguez | [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc/) | [Twitter](https://twitter.com/javicerodriguez)
-- **Jorge Marrero** | GitHub: @jorgemarrero
-- **Gabriel Fierro** | GitHub: @GabrielFierro
-- **Franyer Rangel** | GitHub: @FranyerRangel
+- **Javier Rodriguez** | [GitHub](https://github.com/JaviCeRodriguez) | [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc/) | [Twitter](https://twitter.com/javicerodriguez)
+- **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
+- **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
+- **Franyer Rangel** | [GitHub](https://github.com/FranyerRangel)
