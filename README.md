@@ -16,3 +16,6 @@ Entre todos vamos a aprender este hermoso lenguaje!
 - **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
 - **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
 - **Franyer Rangel** | [GitHub](https://github.com/FranyerRangel)
+
+## Repositorios del grupo 📚👨‍🎓👩‍🎓
+- [**Juan Martín Cechetto**](https://github.com/jmceche/python_strudy_group)
