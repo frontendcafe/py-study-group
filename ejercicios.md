@@ -10,8 +10,8 @@ En este Markdown, iremos poniendo todos los ejercicios que deberán hacer. Si ha
 Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. Tomaremos como piloto los primeros ejercicios y evaluaremos como seguimos.
 
 ## Ejercicios
-En el siguiente listado, se agregaran ejercicios de forma cronológica (nuevos primeros). Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
-- [**Ejercicio 1**: Palindromo](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
+En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
+- [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
 
 ---
 ### Ejercicio 1: Palindromo ([Pywombat](https://pywombat.com/)):
