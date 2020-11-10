@@ -22,3 +22,4 @@ Entre todos vamos a aprender este hermoso lenguaje!
 - [**FranyerRangel**](https://github.com/FranyerRangel/ejercicios-py-study-group)
 - [**JoeOsG**](https://github.com/JoeOsG/py-study-group) 
 - [**Gabriel Fierro**](https://github.com/GabrielFierro/py-study-group)
+- [**AmitSna**](https://github.com/AmitSna/FEC_py_study_group_exercises)
