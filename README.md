@@ -20,4 +20,5 @@ Entre todos vamos a aprender este hermoso lenguaje!
 ## Repositorios del grupo 📚👨‍🎓👩‍🎓
 - [**Juan Martín Cechetto**](https://github.com/jmceche/python_strudy_group)
 - [**FranyerRangel**](https://github.com/FranyerRangel/ejercicios-py-study-group)
-- [**JoeOsG**](https://github.com/JoeOsG/py-study-group)
+- [**JoeOsG**](https://github.com/JoeOsG/py-study-group) 
+- [**Gabriel Fierro**](https://github.com/GabrielFierro/py-study-group)
