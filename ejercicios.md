@@ -12,7 +12,7 @@ Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. 
 ## Ejercicios
 En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
 - [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
-- [**Ejercicio 2**: Secuencia genética (10/11/2020)]()
+- [**Ejercicio 2**: Secuencia genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
 
 ---
 ### Ejercicio 2: Secuencia genética (Inventado)
@@ -32,7 +32,7 @@ Una *secuencia* de ejemplo sería:
 Hay una tabla para poder identificar cada codón:
 <p align="center">
   <a href="https://discord.gg/frontendcafe" target="_blank">
-	<img alt="FrontendCafe" src=".\imgs\codigo-genetico.jpg">
+	<img alt="FrontendCafe" src=".\imgs\codigo-genetico.jpg" style="width: 500px">
   </a>
 </p>
 
@@ -53,6 +53,19 @@ Una vez entendida la teoría (si no, consulten), vamos a desarrollar un detector
 
 Los opcionales están para que veamos que saben y como lo encaran. Estaría bueno que hagan todos o algunos opcionales para que aprendan otras cositas de Python, a parte de la lógica.
 
+> Ejemplos
+```cmd
+Inserte secuencia: AUGGGGUACUACUAUAGGUAG
+Secuencias detectadas: 1
+
+Inserte secuencia: AUGGGGUaUxAXUA-AGGUaG
+Secuencias detectadas: 0
+
+Inserte secuencia: AUGGGGUAUUAUUAUAGGUAGAUGGGGUAUUAUUAUAGGUAGAUGGGGUAUUAUUAUAGGUAG
+Secuencias detectadas: 3
+```
+*NOTA*: No es obligatorio ingresar las secuencias, pueden generarlas de forma automática con random! (aunque las posibilidades de obtener una secuencia son bajas dependiendo del largo de la cadena).
+
 ---
 ### Ejercicio 1: Palindromo ([Pywombat](https://pywombat.com/)):
 > Enunciado
@@ -66,6 +79,7 @@ Un palíndromo es una palabra, o frase, que se lee igual de izquierda a derecha 
 - La función debe poseer como parámetro la variable sentencia.
 - La función debe retornar verdadero(True) si el parámetro es una palíndromo, en caso contrario retornará falso(False).
 > Ejemplos
+
 ```cmd
 >>> palindromo('Anita lava la tina')
 True
