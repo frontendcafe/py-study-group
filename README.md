@@ -23,3 +23,4 @@ Entre todos vamos a aprender este hermoso lenguaje!
 - [**JoeOsG**](https://github.com/JoeOsG/py-study-group) 
 - [**Gabriel Fierro**](https://github.com/GabrielFierro/py-study-group)
 - [**AmitSna**](https://github.com/AmitSna/FEC_py_study_group_exercises)
+- [**Valentina Jaramillo Ramirez**](https://github.com/valen2510/tasks-py-study-group)
