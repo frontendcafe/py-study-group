@@ -32,7 +32,7 @@ Una *secuencia* de ejemplo sería:
 Hay una tabla para poder identificar cada codón:
 <p align="center">
   <a href="https://discord.gg/frontendcafe" target="_blank">
-	<img alt="FrontendCafe" src=".\imgs\codigo-genetico.jpg" style="width: 500px">
+	<img alt="FrontendCafe" src=".\imgs\codigo-genetico.jpg" style="width: 300px">
   </a>
 </p>
 
