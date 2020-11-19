@@ -15,6 +15,28 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 2**: Secuencia genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
 
 ---
+### Ejercicio 3: Justificador de Líneas (propuesto AmitSna)
+> Enunciado
+
+Desarrollar una función que, al recibir una cadena de texto la formatea para que siempre contenga un máximo de 30 caracteres y la finaliza con un salto de línea.
+En caso de tener menos de 30 caracteres, le completa con espacios en blanco hasta completar los 30 y luego la finaliza con salto de línea.
+En caso de tener 30 caracteres exactos, le añade un salto de línea.
+En caso de tener más de 30 caracteres, la fracciona en distintas cadenas de máximo 30 y les realiza mismas operatorias.
+
+El retorno debe ser una cadena de texto justificada según la consigna.
+
+Ejemplos:
+```cmd
+>>> justificador("Esta es una cadena de texto de ejemplo de unos 60 caracteres")
+"Esta es una cadena de texto de\n ejemplo de unos 60 caracteres"
+>>> justificador("Cadenita de tan sólo 32 símbolos")
+"Cadenita de tan sólo 32 símbol\nos"
+>>> justificador("hola")
+"hola                              \n"
+>>> justificador("¡stringsstringsstringsstrings!")
+"¡stringsstringsstringsstrings!\n"
+```
+
 ### Ejercicio 2: Secuencia genética (Inventado)
 > Nota aclaratoria
 
