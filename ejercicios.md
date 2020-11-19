@@ -13,10 +13,10 @@ Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. 
 En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
 - [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
 - [**Ejercicio 2**: Secuencia genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
-- [**Ejercicio 4**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-4-justificador-de-líneas-propuesto-amitsna)
+- [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
 
 ---
-### Ejercicio 4: Justificador de Líneas (propuesto AmitSna)
+### Ejercicio 3: Justificador de Líneas (propuesto AmitSna)
 > Enunciado
 
 Desarrollar una función que, al recibir una cadena de texto la formatea para que siempre contenga un máximo de 30 caracteres y la finaliza con un salto de línea.
@@ -29,9 +29,9 @@ El retorno debe ser una cadena de texto justificada según la consigna.
 > Ejemplos
 ```cmd
 >>> justificador("Esta es una cadena de texto de ejemplo de unos 60 caracteres")
-"Esta es una cadena de texto de\n ejemplo de unos 60 caracteres"
+"Esta es una cadena de texto de\n ejemplo de unos 60 caracteres\n"
 >>> justificador("Cadenita de tan sólo 32 símbolos")
-"Cadenita de tan sólo 32 símbol\nos"
+"Cadenita de tan sólo 32 símbol\nos                              \n"
 >>> justificador("hola")
 "hola                              \n"
 >>> justificador("¡stringsstringsstringsstrings!")
