@@ -25,7 +25,7 @@ En caso de tener más de 30 caracteres, la fracciona en distintas cadenas de má
 
 El retorno debe ser una cadena de texto justificada según la consigna.
 
-Ejemplos:
+> Ejemplos
 ```cmd
 >>> justificador("Esta es una cadena de texto de ejemplo de unos 60 caracteres")
 "Esta es una cadena de texto de\n ejemplo de unos 60 caracteres"
