@@ -20,8 +20,11 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 > Enunciado
 
 Desarrollar una función que, al recibir una cadena de texto la formatea para que siempre contenga un máximo de 30 caracteres y la finaliza con un salto de línea.
-En caso de tener menos de 30 caracteres, le completa con espacios en blanco hasta completar los 30 y luego la finaliza con salto de línea.
+
+En caso de tener menos de 30 caracteres, le completa con espacios en blanco por la derecha hasta completar los 30 y luego la finaliza con salto de línea.
+
 En caso de tener 30 caracteres exactos, le añade un salto de línea.
+
 En caso de tener más de 30 caracteres, la fracciona en distintas cadenas de máximo 30 y les realiza mismas operatorias.
 
 El retorno debe ser una cadena de texto justificada según la consigna.
