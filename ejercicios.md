@@ -16,6 +16,68 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
 
 ---
+### Ejercicio 5: Intersección de Conjuntos (PyWombat)
+> Enunciado
+
+Desarrollar una función que recibe dos listas a y b que contienen números enteros,
+
+la lista a cuenta con una cantidad de elementos menor que b (a < b),
+
+luego las compara entre sí y retorna una única lista con todos los números enteros presentes en ambas listas.
+
+Los elementos de la lista retornada deben estar ordenados de menor a mayor y sólo deben estar listados una única vez.
+
+En caso de no tener elementos en común ambas listas, debe retornar una lista vacía.
+
+> Ejemplos
+```cmd
+>>> interseccion([1, 2, 3, 4, 5, 6, 7, 8], [10, 25, 52, 80, 1, 46, 6, 33, 14, 27, 19])
+[1, 6]
+>>> interseccion([1, 1, 1], [2, 2, 2])
+[]
+>>> interseccion([3, 2, 1], [4, 3, 2, 1])
+[1, 2, 3]
+>>> interseccion([1, 2, 3, 4, 5], [0, 2, 4, 6, 8, 10])
+[2, 4]
+>>> interseccion([6, 7, 1, 2, 1, 3, 4, 5], [7, 8, 1, 3, 2, 1, 7, 3, 7, 10])
+[1, 2, 3, 7]
+```
+
+
+### Ejercicio 4: Imprimir Números (PyWombat)
+> Enunciado
+
+Desarrollar una función que reciba por input una lista de números enteros separados por coma,
+
+y retorne cada uno de los números impresos en saltos de líneas separados.
+
+> Ejemplos
+```cmd
+>>> print_numeros([1, 2, 3, 4, 5])
+1
+2
+3
+4
+5
+>>> print_numeros([1, 1, 1])
+1
+1
+1
+>>> print_numeros([3, 2, 1])
+3
+2
+1
+>>> print_numeros([10, 20, 30, 14, 14, 16, 20])
+10
+20
+30
+14
+14
+16
+20
+```
+
+
 ### Ejercicio 3: Justificador de Líneas (propuesto AmitSna)
 > Enunciado
 
