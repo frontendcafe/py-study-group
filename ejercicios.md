@@ -14,6 +14,8 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
 - [**Ejercicio 2**: Secuencia genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
 - [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
+- [**Ejercicio 4**: Imprimir Números (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-4-imprimir-números-pywombat)
+- [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
 
 ---
 ### Ejercicio 5: Intersección de Conjuntos (PyWombat)
