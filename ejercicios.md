@@ -9,6 +9,8 @@ En este Markdown, iremos poniendo todos los ejercicios que deberán hacer. Si ha
 
 Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. Tomaremos como piloto los primeros ejercicios y evaluaremos como seguimos.
 
+**Te pedimos que, una vez termines los ejercicios semanales, nos mandes tus ejercicios a este [Google Form](https://forms.gle/zy7svSNpUTVE8Rf27). Esto nos sirve para tener una mejor organización.**
+
 ## Ejercicios
 En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
 - [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
