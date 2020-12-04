@@ -135,7 +135,7 @@ Desarrollar una clase llamada "Operaciones_matematicas" que contenga una funció
 -7
 >>> operacion.multiplicacion(-3,-6)
 18
->>> operacion.division(1/2)
+>>> operacion.division(1,2)
 0.5
 >>> operacion.potenciacion(2,8)
 256
