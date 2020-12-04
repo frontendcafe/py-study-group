@@ -20,6 +20,141 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
 
 ---
+### Ejercicio 7: Funciones matemáticas
+> Enunciado
+
+Realizar las funciones correspondientes con clases como lo planteado en el ejercicio anterior, para realizar las siguientes operaciones sobre listas de elementos:
+
+- Calcular el promedio.
+- Hallar el valor máximo. 
+- Hallar el valor mínimo.
+- Buscar valores repetidos y mostrarlos por consola.
+- Dado un número se debe calcular la sucesión de Fibonacci. En este caso, dicho número representa la cantidad de dígitos que se tienen en cuenta.
+
+> Observaciones
+
+- En caso de que la lista no posea elementos, se debe mostrar una lista vacía.
+- Para el caso en que la lista tenga 1 solo elemento, ese elemento se considera el promedio, el valor máximo y el valor mínimo.
+- Si la lista posee dos elementos candidatos a ser mínimo o máximo a la vez, se debe mostrar un cartel indicando que no existe un elemento mínimo o máximo según corresponda.
+- Además si la lista no posee valores repetidos, se debe mostrar un cartel indicando que dicha lista no posee elementos repetidos.
+
+> Ejemplos
+```cmd
+>>> a = [2, 5, 27, 13, -7, 1, 1]
+>>> b = [-1, 1]
+>>> c = []
+>>> d = [10]
+
+Funcion promedio:
+
+>>> operacion = Funciones_matematicas() 
+>>> operacion.promedio(a)
+6
+
+>>> operacion.promedio(b)
+0
+
+>>> operacion.promedio(c)
+[]
+
+>>> operacion.promedio(d)
+10
+
+Funcion mínimo:
+
+>>> operacion.minimo(a)
+-7
+
+>>> operacion.minimo(b)
+No posee elemento mínimo
+
+>>> operacion.minimo(c)
+[]
+
+>>> operacion.minimo(d)
+10
+
+Funcion máximo:
+
+>>> operacion.maximo(a)
+27
+
+>>> operacion.maximo(b)
+No posee elemento máximo
+
+>>> operacion.maximo(c)
+[]
+
+>>> operacion.maximo(d)
+10
+
+Funcion repetido:
+
+>>> operacion.repetido(a)
+1
+
+>>> operacion.repetido(b)
+No posee elementos repetidos
+
+>>> operacion.repetido(c)
+No posee elementos repetidos
+
+>>> operacion.repetido(d)
+No posee elementos repetidos
+
+Funcion Fibonacci:
+
+>>> num = 8
+>>> operacion.fibonacci(num)
+13
+Esto se debe a que cuenta: 
+0 + 1 + 1 + 2 + 3 + 5 + 8 + 13
+```
+
+Para conocer sobre Fibonacci pueden seguir el siguiente link a [Wikipedia - Sucesión de Fibonacci](https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci).
+
+---
+
+### Ejercicio 6: Operaciones matemáticas
+> Enunciado
+
+Desarrollar una clase llamada "Operaciones_matematicas" que contenga una función, por cada una de las operaciones matemáticas habituales descriptas a continuación: 
+  - Suma.
+  - Resta.
+  - Multiplicación.
+  - División.
+  - Potenciación.
+  - Radicación.
+
+> Ejemplos
+```cmd
+>>> operacion = Operaciones_matematicas() 
+>>> operacion.suma(2,3)
+5
+>>> operacion.resta(5,12)
+-7
+>>> operacion.multiplicacion(-3,-6)
+18
+>>> operacion.division(1/2)
+0.5
+>>> operacion.potenciacion(2,8)
+256
+>>> operacion.radicacion(36)
+6
+```
+> Observación: En los ejemplos de arriba, se ha creado un objeto de tipo Operaciones_matematicas, para luego operar con las funciones (o métodos llámense) de nuestra clase, las cuales muestran por consola el resultado, es decir, hacen un "print(resultado)". Pueden hacerlo de ésta forma, o retornar el valor.
+
+
+> Requerimientos
+
+- Para los ejercicios se deben utilizar clases y, como buena práctica de programación se deben modularizar los problemas. Es decir, tendrán una clase llamada "Operaciones_matematicas" (es importante que comience en mayúscula el nombre de la clase), y dentro de la misma tendrán una función por cada operación matemática. De esa forma se dividen los problemas en partes pequeñas de código.
+
+- Se debe utilizar documentación (docstrings) tanto para la clase como para cada función.
+
+Para conocer sobre las clases en Python pueden seguir el siguiente link a [W3Schools](https://www.w3schools.com/python/python_classes.asp).
+
+---
+
 ### Ejercicio 5: Intersección de Conjuntos (PyWombat)
 > Enunciado
 
