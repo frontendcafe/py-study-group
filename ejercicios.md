@@ -47,7 +47,7 @@ Realizar las funciones correspondientes con clases como lo planteado en el ejerc
 
 Funcion promedio:
 
->>> operacion = Funciones_matematicas() 
+>>> operacion = FuncionMatematica() 
 >>> operacion.promedio(a)
 6
 
@@ -66,7 +66,7 @@ Funcion mínimo:
 -7
 
 >>> operacion.minimo(b)
-No posee elemento mínimo
+-1
 
 >>> operacion.minimo(c)
 []
@@ -80,7 +80,7 @@ Funcion máximo:
 27
 
 >>> operacion.maximo(b)
-No posee elemento máximo
+1
 
 >>> operacion.maximo(c)
 []
@@ -118,7 +118,7 @@ Para conocer sobre Fibonacci pueden seguir el siguiente link a [Wikipedia - Suce
 ### Ejercicio 6: Operaciones matemáticas
 > Enunciado
 
-Desarrollar una clase llamada "Operaciones_matematicas" que contenga una función, por cada una de las operaciones matemáticas habituales descriptas a continuación: 
+Desarrollar una clase llamada "OperacionMatematica" que contenga una función, por cada una de las operaciones matemáticas habituales descriptas a continuación: 
   - Suma.
   - Resta.
   - Multiplicación.
@@ -128,7 +128,7 @@ Desarrollar una clase llamada "Operaciones_matematicas" que contenga una funció
 
 > Ejemplos
 ```cmd
->>> operacion = Operaciones_matematicas() 
+>>> operacion = OperacionMatematica() 
 >>> operacion.suma(2,3)
 5
 >>> operacion.resta(5,12)
@@ -147,7 +147,7 @@ Desarrollar una clase llamada "Operaciones_matematicas" que contenga una funció
 
 > Requerimientos
 
-- Para los ejercicios se deben utilizar clases y, como buena práctica de programación se deben modularizar los problemas. Es decir, tendrán una clase llamada "Operaciones_matematicas" (es importante que comience en mayúscula el nombre de la clase), y dentro de la misma tendrán una función por cada operación matemática. De esa forma se dividen los problemas en partes pequeñas de código.
+- Para los ejercicios se deben utilizar clases y, como buena práctica de programación se deben modularizar los problemas. Es decir, tendrán una clase llamada "OperacionMatematica" (es importante que comience en mayúscula el nombre de la clase), y dentro de la misma tendrán una función por cada operación matemática. De esa forma se dividen los problemas en partes pequeñas de código.
 
 - Se debe utilizar documentación (docstrings) tanto para la clase como para cada función.
 
