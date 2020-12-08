@@ -18,9 +18,11 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
 - [**Ejercicio 4**: Imprimir Números (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-4-imprimir-números-pywombat)
 - [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
+- [**Ejercicio 6**: Operaciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-6-operaciones-matemáticas)
+- [**Ejercicio 7**: Funciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-7-funciones-matemáticas)
 
 ---
-### Ejercicio 7: Funciones matemáticas
+### Ejercicio 7: Funciones Matemáticas
 > Enunciado
 
 Realizar las funciones correspondientes con clases como lo planteado en el ejercicio anterior, para realizar las siguientes operaciones sobre listas de elementos:
@@ -115,7 +117,7 @@ Para conocer sobre Fibonacci pueden seguir el siguiente link a [Wikipedia - Suce
 
 ---
 
-### Ejercicio 6: Operaciones matemáticas
+### Ejercicio 6: Operaciones Matemáticas
 > Enunciado
 
 Desarrollar una clase llamada "OperacionMatematica" que contenga una función, por cada una de las operaciones matemáticas habituales descriptas a continuación: 
