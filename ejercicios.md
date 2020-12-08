@@ -37,8 +37,8 @@ Realizar las funciones correspondientes con clases como lo planteado en el ejerc
 
 - En caso de que la lista no posea elementos, se debe mostrar una lista vacía.
 - Para el caso en que la lista tenga 1 solo elemento, ese elemento se considera el promedio, el valor máximo y el valor mínimo.
-- Si la lista posee dos elementos candidatos a ser mínimo o máximo a la vez, se debe mostrar un cartel indicando que no existe un elemento mínimo o máximo según corresponda.
 - Además si la lista no posee valores repetidos, se debe mostrar un cartel indicando que dicha lista no posee elementos repetidos.
+- En caso de que se deba dividir por 0, se debe mostrar la palabra por consola "Error".
 
 > Ejemplos
 ```cmd
@@ -54,7 +54,7 @@ Funcion promedio:
 6
 
 >>> operacion.promedio(b)
-0
+"Error" 
 
 >>> operacion.promedio(c)
 []
