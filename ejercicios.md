@@ -13,8 +13,8 @@ Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. 
 
 ## Ejercicios
 En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
-- [**Ejercicio 1**: Palindromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
-- [**Ejercicio 2**: Secuencia genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
+- [**Ejercicio 1**: Palíndromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palindromo-pywombat)
+- [**Ejercicio 2**: Secuencia Genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
 - [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
 - [**Ejercicio 4**: Imprimir Números (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-4-imprimir-números-pywombat)
 - [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
@@ -244,7 +244,7 @@ El retorno debe ser una cadena de texto justificada según la consigna.
 "¡stringsstringsstringsstrings!\n"
 ```
 
-### Ejercicio 2: Secuencia genética (Inventado)
+### Ejercicio 2: Secuencia Genética (Inventado)
 > Nota aclaratoria
 
 Este ejercicio es uno de tantos que vamos a meter para tocar varias áreas en donde se utiliza Python. Acá lo vamos a encarar para que puedan hacerlo desde cero, pero sepan que existen librerías (por ejemplo: [Biopython](https://biopython.org/)) que hacen esto y mucho más de manera más sencilla.
@@ -296,7 +296,7 @@ Secuencias detectadas: 3
 *NOTA*: No es obligatorio ingresar las secuencias, pueden generarlas de forma automática con random! (aunque las posibilidades de obtener una secuencia son bajas dependiendo del largo de la cadena).
 
 ---
-### Ejercicio 1: Palindromo ([Pywombat](https://pywombat.com/)):
+### Ejercicio 1: Palíndromo ([PyWombat](https://pywombat.com/)):
 > Enunciado
 
 Definir una función la cual permita conocer si un string es un *palíndromo* o no.
