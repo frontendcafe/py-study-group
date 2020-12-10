@@ -22,6 +22,55 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 7**: Funciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-7-funciones-matemáticas)
 
 ---
+
+### Ejercicio 9: Datos y gatitos
+Utilizando clases y el módulo `datetime`, crear un diccionario que obtenga datos de salida de gatos de una casa de adopción con el siguiente formato:
+```cmd
+Gatos: 3
+Nombres: Juan, Carlos, Sanchez
+Fecha de salida: 28/10/2020
+```
+
+Para este ejercicio, se pide:
+- Crear un diccionario que obtenga los valores de las claves `Gatos` (int), `Nombres` (list) y `Fecha` (datetime). El largo de la lista Nombres debe ser igual al de Gatos.
+- Se debe crear un `plot de barras` (o pueden elegir otro a gusto) para ver la cantidad de gatos que tuvieron adopción en un **día**, en un **mes** y en un **año**. Día, mes y año se especifican en consola.
+- Se sugiere crear un archivo `csv` en donde se van a almacenar estos datos y así poder volver a *consultar* los mismo datos utilizados.
+- Crear una función `menu` para poder mostrar por consola si se quiere:
+  1) Insertar datos nuevos
+  2) Consultar datos
+  3) Eliminar datos
+  4) Crear plot con datos del diccionario (solo si el diccionario no está vacío).
+
+Pueden encarar este ejercicio como les sea más cómodo o como les salga primero! Hay muchas formas de encarar este ejercicio.
+
+> **Sugerencia**:
+
+Para que el código no sea tan largo (y fácil de perderse), pueden armar códigos Python por separado y luego importarlos en uno principal. Un ejemplo puede ser: `csvData.py` (para guardar, eliminar y consultar datos de un archivo csv), `plotData.py` (para generar plot) y `gatitos.py` (como código principal).
+Luego deberían importar así:
+```py
+#gatitos.py
+
+import csvData
+import plotData
+
+o
+
+from csvData import nombreClaseCSV
+from plotData import plotearClaseGatos
+```
+Es mejor utilizar la segunda opción, porque solo utilizarían las clases y no todo el código que posiblemente no nos sirva.
+
+---
+
+### Ejercicio 8: Módulos de tiempo (Opcional para practicar)
+Utilizando los módulos `datetime` y `time`, se pide:
+- Calcular la edad actual de una persona según su fecha de nacimiento (en `dd/MM/yyyy`).
+- Crear cuenta regresiva (para fines prácticos, conviene usar tiempos cortos).
+
+Pueden realizar este ejercicio o saltearlo, es solo para familiarizarse con estos módulos antes de empezar el **Ejercicio 9**. El formato de salida en consola se deja a libre albedrío.
+
+---
+
 ### Ejercicio 7: Funciones Matemáticas
 > Enunciado
 
