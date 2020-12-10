@@ -20,6 +20,8 @@ En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enun
 - [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
 - [**Ejercicio 6**: Operaciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-6-operaciones-matemáticas)
 - [**Ejercicio 7**: Funciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-7-funciones-matemáticas)
+- [**Ejercicio 8: Módulos de tiempo (Opcional para practicar) (10/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-8-m%C3%B3dulos-de-tiempo-opcional-para-practicar)
+- [**Ejercicio 9: Datos y gatitos (10/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-9-datos-y-gatitos)
 
 ---
 
