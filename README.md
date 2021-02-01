@@ -1,27 +1,37 @@
 # Grupo de estudio con Python 🐍
-Aprenderemos Python con ejercicios prácticos! La idea es que, desde cero, podamos encarar ejercicios simples hasta los más complejos.
 
-Vamos a utilizar varias herramientas que nos serán de utilidad en varios campos de estudios (análisis de datos, estructuras, desarrollo web, biología, aplicaciones, etc).
+*Update README: 1/2/21*
 
-La metodología que usaremos es la siguiente:
-- 🚴 Usaremos un [Roadmap]() (en construcción!) para poder progresar paso a paso. La idea es seguirlo al pié de la letra, pero a tu tiempo!
-- 🤸‍♂️ Periódicamente, realizaremos [Ejercicios](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md) para aplicar lo que sabemos. Podemos utilizar cualquier método para resolver! La única condición es que nos muestres a todos como lo resolviste. Esta es una forma de aprender de los demás y adquirir nuevas alternativas.
-- 👩‍💻 Haremos un Live Coding en FrontendCafé para mostrar en vivo como resolvemos distintos ejercicios. Si no estás en el servidor de Discord, este es el <a href="https://discord.gg/frontendcafe" target="_blank">enlace</a> (invitá a tus amigos! 😉)
+En este grupo de estudio con Python, vamos a realizar ejercicios de lo que sea: algoritmos, estructuras de datos, desarrollo web, apps de escritorio y mucho más. Desde lo más simple hasta lo más complejo.
+
+La idea principal es que podamos aprender entre todos este lindo lenguaje!
+
+La **metodología** que usamos es la siguiente:
+- 📑 Planeamos el contenido a dar en un tiempo razonable (por ejemplo: veremos Flask en 4 semanas para abarcar ciertos temas semanalmente).
+- 🏋️ Luego de cumplir con el planeamiento, daremos 1 o 2 semanas para poder realizar prácticas libres, o sea, que podamos proponernos desafíos o ejercicios personales o grupales y realizarlos.
+- 🧐 Antes de dar nuevos ejercicios, veremos lo que pudieron realizar y dar pequeñas opiniones para poder mejorar el código o simplemente felicitarlos por haber cumplido (*lamentablemente, no hay torta ni confites*)
 - 🤔 Si tenés dudas, escribilas en el canal de texto #py-study-group del servidor! Entre todos vamos a ayudarte.
 
-Entre todos vamos a aprender este hermoso lenguaje!
+🐍 Si te gustó esto y no estás en el servidor de Discord de **FrontendCafé**, no esperemes más y [haz clic aquí](https://discord.gg/frontendcafe) para empezar a participar!
 
+🚴 En un futuro cercano, propondremos un **Roadmap** para que puedan seguir todos los contenidos relacionados con Python, con **Paths personalizados** por área de estudio.
+
+## Contenido
+Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejercicios, material teórico, proyectos y aportes de integrantes. Si te gustaría aportar material, podés pasarnoslo desde nuestro canal en [FrontendCafé](https://discord.gg/frontendcafe) o realizando un pull request en el contenido de acá abajo:
+
+- **Ejercicios**
+    - Ejercicios en general
+    - Flask
+    - ...
+- **Material de estudio**
+    - Python básico
+    - Flask
+- **Proyectos**
+    - Flask
+
+---
 ## Autores ✒️
 - **Javier Rodriguez** | [GitHub](https://github.com/JaviCeRodriguez) | [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc/) | [Twitter](https://twitter.com/javicerodriguez)
 - **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
 - **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
 - **Franyer Rangel** | [GitHub](https://github.com/FranyerRangel)
-
-## Repositorios del grupo 📚👨‍🎓👩‍🎓
-- [**Juan Martín Cechetto**](https://github.com/jmceche/python_strudy_group)
-- [**FranyerRangel**](https://github.com/FranyerRangel/ejercicios-py-study-group)
-- [**JoeOsG**](https://github.com/JoeOsG/py-study-group) 
-- [**Gabriel Fierro**](https://github.com/GabrielFierro/py-study-group)
-- [**AmitSna**](https://github.com/AmitSna/FEC_py_study_group_exercises)
-- [**Valentina Jaramillo Ramirez**](https://github.com/valen2510/tasks-py-study-group)
-- [**Manuel Gago**](https://github.com/manuel96meg/FEC-py-group)
