@@ -20,14 +20,11 @@ La **metodología** que usamos es la siguiente:
 Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejercicios, material teórico, proyectos y aportes de integrantes. Si te gustaría aportar material, podés pasarnoslo desde nuestro canal en [FrontendCafé](https://discord.gg/frontendcafe) o realizando un pull request en el contenido de acá abajo:
 
 - **Ejercicios**
-    - Ejercicios en general
-    - Flask
+    - [Ejercicios en general](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/ejerciciosGeneral)
+    - [Flask](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/Flask)
     - ...
-- **Material de estudio**
-    - Python básico
-    - Flask
-- **Proyectos**
-    - Flask
+
+- [**Material de estudio**](https://github.com/JaviCeRodriguez/py-study-group/tree/main/materialDeEstudio)
 
 ---
 ## Autores ✒️
