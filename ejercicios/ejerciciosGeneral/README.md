@@ -1,29 +1,9 @@
-# Ejercicios para la gente de FEC
-En este Markdown, iremos poniendo todos los ejercicios que deberán hacer. Si hay dudas, consulten en el canal!
-
-<p align="center">
-  <a href="https://discord.gg/frontendcafe" target="_blank">
-	<img alt="FrontendCafe" src=".\imgs\channel-discord.jpg">
-  </a>
-</p>
-
-Se agregarán cierta cantidad de ejercicios, veremos la cantidad con el tiempo. Tomaremos como piloto los primeros ejercicios y evaluaremos como seguimos.
-
-**Te pedimos que, una vez termines los ejercicios semanales, nos mandes tus ejercicios a este [Google Form](https://forms.gle/zy7svSNpUTVE8Rf27). Esto nos sirve para tener una mejor organización.**
+# Ejercicios Generales
+Acá podran ver los ejercicios que fuimos dando en el año 2020. Por ahora lo dejaremos por acá!
+Vamos a ir acomodando el repositorio a medida de que avancemos.
 
 ## Ejercicios
-En el siguiente listado, se agregaran ejercicios en orden cronológico. Los enunciados están los más recientes primero. Fecha de entrega no hay, pero si vamos a estar 1 o 2 días por semana para discutir los ejercicios propuestos y daremos la oportunidad de que los demás participen y muestren sus códigos.
-- [**Ejercicio 1**: Palíndromo (9/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-1-palíndromo-pywombat)
-- [**Ejercicio 2**: Secuencia Genética (11/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-2-secuencia-gen%C3%A9tica-inventado)
-- [**Ejercicio 3**: Justificador de Líneas (18/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-3-justificador-de-líneas-propuesto-amitsna)
-- [**Ejercicio 4**: Imprimir Números (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-4-imprimir-números-pywombat)
-- [**Ejercicio 5**: Intersección de Conjuntos (26/11/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-5-intersección-de-conjuntos-pywombat)
-- [**Ejercicio 6**: Operaciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-6-operaciones-matemáticas)
-- [**Ejercicio 7**: Funciones Matemáticas (2/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-7-funciones-matemáticas)
-- [**Ejercicio 8**: Módulos de tiempo (Opcional para practicar) (10/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-8-m%C3%B3dulos-de-tiempo-opcional-para-practicar)
-- [**Ejercicio 9**: Datos y gatitos (10/12/2020)](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios.md#ejercicio-9-datos-y-gatitos)
-
----
+En el siguiente listado, se agregaran ejercicios en orden cronológico:
 
 ### Ejercicio 9: Datos y gatitos
 Utilizando clases y el módulo `datetime`, crear un diccionario que obtenga datos de salida de gatos de una casa de adopción con el siguiente formato:
