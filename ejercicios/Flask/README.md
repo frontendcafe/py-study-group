@@ -1,6 +1,45 @@
 # Contenido
 Mostraremos las consignas para cada semana en este README. Cualquier consulta, haganla en el canal del grupo en [FrontendCafé](https://discord.gg/frontendcafe).
 
+## ./semana2
+En la segunda semana, ya sabiendo una base de HTML y CSS, ya podemos arrancar con la parte divertida (*wiii*). Lo dividimos en 2 partes:
+
+1) **API GitHub**
+Debemos realizar peticiones a la API de GitHub y obtener información de usuarios de la plataforma. Este ejercicio pide:
+- Realizar una petición a la API, sabiendo el usuario de GitHub. Por ejemplo: `https://api.github.com/users/JaviCeRodriguez`.
+- Obtener los datos de interés como el nombre, usuario, ubicación, biografía, cantidad de repositorios, usuario de twitter, etc.
+- Imprimir estos datos de interés en consola con el siguiente formato:
+```cmd
+Usuario: JaviCeRodriguez
+Nombre: Javier Rodriguez
+Ubicación: San Fernando, Buenos Aires, Argentina
+Biografía: Hago Testing Manual, Desarrollo Frontend y buenos mates.
+Twitter: javicerodriguez
+.
+.
+.
+```
+Probar con varios usuarios existentes y con un par que no existan, para ver que datos recibimos.
+Este ejercicio guardalo, lo vamos a usar en Flask.
+
+2) **Primera app en Flask**
+Siguiendo el material de estudio recomendado, ya pueden realizar una app en Flask. En este segundo ejercicio se piede:
+- Desarrollar en un script `main.py` las funciones necesarias para poder visualizar el contenido buscado, colocando dos posibles rutas:
+    - `/` será la página principal, con solo el buscador, título, header y footer.
+    - `/error` solo si recibimos un 404. Acá pueden mostrar el cuadro de búsqueda o un botón para volver atrás.
+    - `/user/JaviCeRodriguez` si obtenemos datos de la API
+- Usar un lenguaje de plantillas para reutilizar el código HTML.
+
+El ejercicio de la semana pasada lo vamos a usar acá para aplicar un poco de diseño a la app. Si no pudieron terminarlo, avisen por el canal del servidor!
+
+**Material**
+- [Curso Flask de Código Facilito (hasta el video 13)](https://codigofacilito.com/cursos/flask)
+- [Template Designer Documentation - Jinja](https://jinja.palletsprojects.com/en/2.10.x/templates/)
+- [Python requests](https://realpython.com/python-requests/)
+- [Enlace de ejemplo de API de GitHub: https://api.github.com/users/JaviCeRodriguez](https://api.github.com/users/JaviCeRodriguez) (solo deberían cambiar el usuario 'JaviCeRodriguez')
+- [Extensión de Google Chrome para parsear los JSON de las API: JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+
+
 ## ./semana1
 Para esta primer semana, haremos un repaso de lo que es **HTML y CSS**. Si queremos ver Flask, debemos tener un mínimo de conocimiento de HTML y saber usar CSS para poder llamar la atención que nuestros proyectos sean más lindos.
 
