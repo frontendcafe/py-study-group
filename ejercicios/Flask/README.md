@@ -1,6 +1,26 @@
 # Contenido
 Mostraremos las consignas para cada semana en este README. Cualquier consulta, haganla en el canal del grupo en [FrontendCafé](https://discord.gg/frontendcafe).
 
+## ./semana3
+En la tercera semana vamos a seguir trabajando con Flask y hacer el Deploy.
+
+Ejercicio: Crear un portfolio personal (puede ser un CV, una galeria, lo que sea), utilizando lo aprendido hasta ahora.
+Agregar rutas para poder mostrar información sobre el usuario propio de GitHub (/GitHub), siendo el portfolio como página principal (/).
+Opcionalmente, crear otras rutas para agregar distintas secciones.
+
+Ejemplo de app:
+
+```cmd
+Portfolio: /
+    |--> About: /about (opcional)
+    |--> Projects: /projects (opcional)
+    |--> Skills: /skills (opcional)
+    |--> My Profile Github: /github
+```
+
+Para realizar deploy de la app, pueden usar esta [guía para hacerlo en Heroku](https://stackabuse.com/deploying-a-flask-application-to-heroku/). Cualquier duda sobre deploy, no duden en consultar en el canal. No es sencillo, pero tampoco imposible :smile:.
+
+
 ## ./semana2
 En la segunda semana, ya sabiendo una base de HTML y CSS, ya podemos arrancar con la parte divertida (*wiii*). Lo dividimos en 2 partes:
 
