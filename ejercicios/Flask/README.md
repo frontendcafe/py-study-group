@@ -6,14 +6,16 @@ Ultimo ejercicio de Flask! Vamos a hacer la conexión a una base de datos :D
 
 Ejercicio: Crear una base de datos en Firebase, FaunaDB o MongoDB (opuede ser cualquier otro) y crear un sistema de comentarios. Por facilidad, se recomienda primero realizar este sistema de comentarios en una página, mostrando los comentarios de otras personas.
 Siguiendo con el ejemplo del ejercicio anterior, la estructura de las páginas sería:
-> Portfolio: `/`
-> 	|--> About: `/about` (opcional)
-> 	|--> Projects: `/projects` (opcional)
-> 	|--> Skills: `/skills` (opcional)
-> 	|--> My Profile Github: `/github`
-> 	|--> Comments: `/comments`
 
-Pueden aumentar la complejidad si quieren!
+```
+Portfolio: `/`
+ 	|--> About: /about (opcional)
+ 	|--> Projects: /projects (opcional)
+ 	|--> Skills: /skills (opcional)
+ 	|--> My Profile Github: /github
+ 	|--> Comments: /comments
+```
+Pueden aumentar la complejidad si quieren! También lo puede implementar de otra forma.
 Para esto, se suele utilizar un `.env` en la raiz del proyecto y se coloca las claves de seguridad de la DB o la url de conexión. Para las primeras pruebas pueden hacerlo sin un `.env`.
 
 **Material**:
