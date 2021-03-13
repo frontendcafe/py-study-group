@@ -17,7 +17,7 @@ Pueden aumentar la complejidad si quieren!
 Para esto, se suele utilizar un `.env` en la raiz del proyecto y se coloca las claves de seguridad de la DB o la url de conexión. Para las primeras pruebas pueden hacerlo sin un `.env`.
 
 **Material**:
-Por primeros cuatro enlaces son videos de YT en donde explican como realizar un CRUD con alguna de las DB mencionadas.
+Estos cuatro enlaces son videos de YT en donde explican como realizar un CRUD con alguna de las DB mencionadas.
 - [Python Firebase|✅| realtime DATABASE tutorial en ESPAÑOL! | 2020🤯](https://www.youtube.com/watch?v=f64e18ohYlY)
 - [Python-Firebase Real Time Database | CRUD Tutorial](https://www.youtube.com/watch?v=Lphl9yQsw2A)
 - [Fauna DB and Python connection.](https://www.youtube.com/watch?v=mKPBJsoxOpU)
