@@ -59,7 +59,7 @@ class FuncionesMatematicas:
 	
 	def fibo(self, a):
 		"""Calculate Fibonacci Sucession from a given quantity of digits"""
-		#return [int((((1 + (5 ** 0.5)) / 2) ** a / (5 ** 0.5)) + 0.5), a][a < 2]
+		#return [int((((1 + (5 ** 0.5)) / 2) ** (a - 1) / (5 ** 0.5)) + 0.5), a][a < 2]
 		
 		if a < 2:
 			return a
