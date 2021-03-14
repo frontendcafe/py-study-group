@@ -20,10 +20,12 @@ Para esto, se suele utilizar un `.env` en la raiz del proyecto y se coloca las c
 
 **Material**:
 Estos cuatro enlaces son videos de YT en donde explican como realizar un CRUD con alguna de las DB mencionadas.
-- [Python Firebase|✅| realtime DATABASE tutorial en ESPAÑOL! | 2020🤯](https://www.youtube.com/watch?v=f64e18ohYlY)
-- [Python-Firebase Real Time Database | CRUD Tutorial](https://www.youtube.com/watch?v=Lphl9yQsw2A)
+- (*) [Python Firebase|✅| realtime DATABASE tutorial en ESPAÑOL! | 2020🤯](https://www.youtube.com/watch?v=f64e18ohYlY)
+- (*) [Python-Firebase Real Time Database | CRUD Tutorial](https://www.youtube.com/watch?v=Lphl9yQsw2A)
 - [Fauna DB and Python connection.](https://www.youtube.com/watch?v=mKPBJsoxOpU)
 - [Working with mongoDB Atlas using Python](https://www.youtube.com/watch?v=VQnmcBnguPY)
+
+(*) Edit de Javo: Al parecer, no estaría funcionando el método que usan en los videos de Firebase (tal vez me equivoco y funciona). Dejo una guía alternativa usando otra librería para Firebase: [How to Get Started with Firebase Using Python - freeCodeCamp](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
 
 ## ./semana3
 En la tercera semana vamos a seguir trabajando con Flask y hacer el Deploy.
