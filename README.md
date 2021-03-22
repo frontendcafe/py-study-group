@@ -22,6 +22,7 @@ Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejerci
 - **Ejercicios**
     - [Ejercicios en general](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/ejerciciosGeneral)
     - [Flask](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/Flask)
+    - [CodeWars](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/CodeWars)
     - ...
 
 - [**Material de estudio**](https://github.com/JaviCeRodriguez/py-study-group/tree/main/materialDeEstudio)
@@ -32,3 +33,4 @@ Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejerci
 - **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
 - **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
 - **Franyer Rangel** | [GitHub](https://github.com/FranyerRangel)
+- **AmitSna** | [GitHub](https://github.com/AmitSna)
