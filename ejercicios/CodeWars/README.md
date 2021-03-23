@@ -13,7 +13,7 @@ Ahora sí, unas cosas para aclarar: Nuestra idea es que TÚ puedas participar y 
 
 **1.** Van a clonar este repo y laburar en una carpeta propia. Ahora estamos ubicados en `ejercicios\CodeWars`, ustedes van a crearse una carpeta dentro y colocar sus ejercicios ahí con un `README.md` dentro listando todos los ejercicios hechos, por hacer, por refactorizar, etc. Un ejemplo sería:
 ```
-Codewars
+CodeWars
     |-> Javier-R
         |-> multiply.py
         |-> multiples.py
