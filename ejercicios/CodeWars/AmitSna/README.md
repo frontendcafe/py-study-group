@@ -1,9 +1,9 @@
 # CodeWars Katas - AmitSna
 
 ## Done
-- persistent_bugger.AmitSna.py / [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+- persistent_bugger.AmitSna.py / [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 - smallest_integer.AmitSna.py / [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)
-- string_repeat.AmitSna.py / [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+- string_repeat.AmitSna.py / [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - array_diff.AmitSna.py / [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
 - opposite_number.AmitSna.py / [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
 - regex_pincode.AmitSna.py / [Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
@@ -18,4 +18,4 @@
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
-- / [Give me a Diamond!](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/python)
+- / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/python)
