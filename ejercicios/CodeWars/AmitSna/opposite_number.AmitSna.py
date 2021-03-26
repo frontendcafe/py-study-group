@@ -1,0 +1,1 @@
+opposite = lambda number: -number
