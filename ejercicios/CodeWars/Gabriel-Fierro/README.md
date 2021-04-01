@@ -6,6 +6,7 @@
 
 - string_repeat.py / [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
 - vowel_count.py / [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/)
+- mumbling.py / [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 
 ## Ejercicios en desarrollo
 
