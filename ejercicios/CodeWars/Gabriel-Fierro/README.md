@@ -9,6 +9,7 @@
 - mumbling.py / [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - row_weights.py / [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
 - break_camelCase.py / [Break CamelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
+- unique_in_order.py / [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 
 ## Ejercicios en desarrollo
 
