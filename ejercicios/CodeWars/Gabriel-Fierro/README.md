@@ -1,4 +1,4 @@
-# Katas de CodeWars - Javier Rodriguez
+# Katas de CodeWars - Gabriel Fierro
 
 Éstas son las katas que resolví y que voy a ir resolviendo desde la página de CodeWars.
 
