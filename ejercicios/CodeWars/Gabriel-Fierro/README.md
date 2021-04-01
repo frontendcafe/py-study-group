@@ -8,6 +8,7 @@
 - vowel_count.py / [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/)
 - mumbling.py / [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - row_weights.py / [Row Weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)
+- break_camelCase.py / [Break CamelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
 
 ## Ejercicios en desarrollo
 
