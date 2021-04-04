@@ -18,4 +18,6 @@
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
-- / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648/train/python)
+- / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
+- / [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- / [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
