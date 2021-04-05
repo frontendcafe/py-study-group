@@ -16,8 +16,8 @@
 - floating_point_comparison.AmitSna.py / [Floating point comparison](https://www.codewars.com/kata/5f9f43328a6bff002fa29eb8)
 - uefa_euro_2016.AmitSna.py / [UEFA EURO 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 - take_a_ten_minute_walk.AmitSna.py / [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- first_non_repeating_character.AmitSna.py / [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
 - / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
-- / [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
