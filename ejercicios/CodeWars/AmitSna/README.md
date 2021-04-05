@@ -17,6 +17,7 @@
 - [uefa_euro_2016.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/uefa_euro_2016.AmitSna.py) / [UEFA EURO 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 - [take_a_ten_minute_walk.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/take_a_ten_minute_walk.AmitSna.py) / [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [first_non_repeating_character.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/first_non_repeating_character.AmitSna.py) / [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+- [generate_range_of_integers.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/generate_range_of_integers.AmitSna.py) / [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
