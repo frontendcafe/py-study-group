@@ -19,6 +19,7 @@
 - [first_non_repeating_character.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/first_non_repeating_character.AmitSna.py) / [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 - [generate_range_of_integers.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/generate_range_of_integers.AmitSna.py) / [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 - [template_strings.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/template_strings.AmitSna.py) / [Template Strings](https://www.codewars.com/kata/55a14f75ceda999ced000048)
+- [reversed_strings.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/reversed_strings.AmitSna.py) / [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
