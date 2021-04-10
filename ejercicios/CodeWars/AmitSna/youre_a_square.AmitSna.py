@@ -1,5 +1,4 @@
+is_square = lambda n: n >= 0 and int(n**0.5)**2 == n
+
 def is_square(n):
-    try:
-        return int(n**0.5)**2 == n
-    except TypeError:
-        return False
+    return n >= 0 and int(n**0.5)**2 == n
