@@ -24,3 +24,6 @@
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
 - / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
+- / [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786)
+- / [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+- / [Enumerable Magic #20 - Cascading Subsets](https://www.codewars.com/kata/545af3d185166a3dec001190)
