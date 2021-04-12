@@ -27,3 +27,4 @@
 - / [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786)
 - / [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 - / [Enumerable Magic #20 - Cascading Subsets](https://www.codewars.com/kata/545af3d185166a3dec001190)
+- / [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
