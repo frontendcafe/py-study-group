@@ -12,11 +12,5 @@ def number_of_rectangles(m, n):
     return amount
 
 
-# Clue to solve it: it is a mathematical formula >.>'
-# Solved by Gabriella Martinez. https://github.com/martinezga
-    reversed_string = ''
-
-    for i in range(len(string) - 1, -1, -1):
-        reversed_string += string[i]
-
-    return reversed_string
+# Clue to solve it: it is a mathematical formula
+# Solved by Gabriella Martínez. https://github.com/martinezga

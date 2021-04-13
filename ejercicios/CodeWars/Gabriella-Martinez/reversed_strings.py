@@ -7,10 +7,9 @@ Complete the solution so that it reverses the string passed into it
 
 def solution(string):
     reversed_string = ''
-    reversed_iterator = reversed(string)
 
-    for letter in reversed_iterator:
-        reversed_string += letter
+    for i in range(len(string) - 1, -1, -1):
+        reversed_string += string[i]
 
     return reversed_string
 
@@ -25,4 +24,4 @@ def solution(string):
 #     return reversed_string
 
 
-# Solved by Gabriella Martinez. https://github.com/martinezga
+# Solved by Gabriella Martínez. https://github.com/martinezga
