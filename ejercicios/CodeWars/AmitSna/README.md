@@ -20,10 +20,10 @@
 - [generate_range_of_integers.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/generate_range_of_integers.AmitSna.py) / [Generate range of integers](https://www.codewars.com/kata/55eca815d0d20962e1000106)
 - [template_strings.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/template_strings.AmitSna.py) / [Template Strings](https://www.codewars.com/kata/55a14f75ceda999ced000048)
 - [reversed_strings.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/reversed_strings.AmitSna.py) / [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [give_me_a_diamond.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/give_me_a_diamond.AmitSna.py) / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
-- / [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 - / [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786)
 - / [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 - / [Enumerable Magic #20 - Cascading Subsets](https://www.codewars.com/kata/545af3d185166a3dec001190)
