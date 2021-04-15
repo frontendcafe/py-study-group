@@ -6,5 +6,4 @@ def diamond(n):
         diamond += " " * ((n - amount) // 2) + "*" * amount + "\n"
     for amount in range(n - 2, 0, -2):
         diamond += " " * ((n - amount) // 2) + "*" * amount + "\n"
-    print(diamond)
     return diamond
