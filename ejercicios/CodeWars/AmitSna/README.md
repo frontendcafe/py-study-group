@@ -28,3 +28,4 @@
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
 - / [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786)
 - / [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
+- / [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020)
