@@ -1,9 +1,14 @@
 # Grupo de estudio con Python 🐍
 
-*Update README: 1/2/21*
+*Update README: 4/4/21*
 
 En este grupo de estudio con Python, vamos a realizar ejercicios de lo que sea: algoritmos, estructuras de datos, desarrollo web, apps de escritorio y mucho más. Desde lo más simple hasta lo más complejo.
 
+## ¿Qué estamos viendo ahora? 🤔
+Vamos a resolver desafíos de [Code Wars](https://www.codewars.com/) en todos los niveles de complejidad que podamos. A medida que vayamos completando desafíos, mostramos nuestros avances en este repositorio.
+Podés participar! Solo mira el siguiente [README](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/CodeWars) correspondiente a esta actividad.
+
+## ¿Cómo nos organizamos? 👍
 La idea principal es que podamos aprender entre todos este lindo lenguaje!
 
 La **metodología** que usamos es la siguiente:
@@ -16,7 +21,7 @@ La **metodología** que usamos es la siguiente:
 
 🚴 En un futuro cercano, propondremos un **Roadmap** para que puedan seguir todos los contenidos relacionados con Python, con **Paths personalizados** por área de estudio.
 
-## Contenido
+## Contenido 📚
 Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejercicios, material teórico, proyectos y aportes de integrantes. Si te gustaría aportar material, podés pasarnoslo desde nuestro canal en [FrontendCafé](https://discord.gg/frontendcafe) o realizando un pull request en el contenido de acá abajo:
 
 - **Ejercicios**
@@ -28,9 +33,8 @@ Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejerci
 - [**Material de estudio**](https://github.com/JaviCeRodriguez/py-study-group/tree/main/materialDeEstudio)
 
 ---
-## Autores ✒️
+## Colaboradores en la organización del grupo ✒️
 - **Javier Rodriguez** | [GitHub](https://github.com/JaviCeRodriguez) | [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc/) | [Twitter](https://twitter.com/javicerodriguez)
 - **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
 - **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
-- **Franyer Rangel** | [GitHub](https://github.com/FranyerRangel)
 - **AmitSna** | [GitHub](https://github.com/AmitSna)
