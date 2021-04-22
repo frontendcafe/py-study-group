@@ -31,3 +31,4 @@
 - / [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786)
 - / [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 - / [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020)
+- / [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
