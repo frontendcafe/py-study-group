@@ -11,6 +11,7 @@
 - break_camelCase.py / [Break CamelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
 - unique_in_order.py / [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 - take_sum.py / [Take sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
+- credit_card_mask.py / [Credit card mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)
 
 ## Ejercicios en desarrollo
 
