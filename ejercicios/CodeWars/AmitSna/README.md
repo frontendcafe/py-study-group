@@ -32,3 +32,5 @@
 - / [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 - / [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020)
 - / [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335)
+- / [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+- / [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
