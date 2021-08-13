@@ -25,6 +25,7 @@
 - [does_my_number_look_big_in_this.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/does_my_number_look_big_in_this.AmitSna.py) / [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 - [do_you_speak_english.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/do_you_speak_english.AmitSna.py) / [Do you speak "English"?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058)
 - [pick_first_elements.AmitSna.py](https://github.com/JaviCeRodriguez/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/pick_first_elements.AmitSna.py) / [pick a set of first elements](https://www.codewars.com/kata/572b77262bedd351e9000076)
+- [circles_in_polygons.AmitSna.py](https://github.com/hifrontendcafe/py-study-group/blob/main/ejercicios/CodeWars/AmitSna/circles_in_polygons.AmitSna.py) / [Circles in Polygons](https://www.codewars.com/kata/5a026a9cffe75fbace00007f)
 
 ## WIP
 - / [Pole Vault Starting Marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf)
