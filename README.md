@@ -1,40 +1,94 @@
 # Grupo de estudio con Python 🐍
 
-*Update README: 4/4/21*
+*Update README: 21/08/21*
 
 En este grupo de estudio con Python, vamos a realizar ejercicios de lo que sea: algoritmos, estructuras de datos, desarrollo web, apps de escritorio y mucho más. Desde lo más simple hasta lo más complejo.
 
-## ¿Qué estamos viendo ahora? 🤔
-Vamos a resolver desafíos de [Code Wars](https://www.codewars.com/) en todos los niveles de complejidad que podamos. A medida que vayamos completando desafíos, mostramos nuestros avances en este repositorio.
-Podés participar! Solo mira el siguiente [README](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/CodeWars) correspondiente a esta actividad.
+## 1) ¿Qué estamos haciendo ahora en el grupo? 🤔
+Vamos a estar haciendo 2 actividades en paralelo:
 
-## ¿Cómo nos organizamos? 👍
+### 1.1) #30DaysOfCode 📆
+Queremos progresar como desarrolladores Python, por lo que hay practicar con teoría y retos! En la carpeta [30DaysOfCode](https://github.com/frontendcafe/py-study-group/tree/main/30DaysOfCode) vamos a colocar todos los ejercicios que vayamos a realizar junto con su contenido teórico necesario para lograr resolverlos.
+
+### 1.2) Roadmap de Python 🚴‍♂️
+Este es un proyecto colaborativo en cual todos pueden participar. Vamos a crear una Roadmap de Python para que todos puedan seguir el camino del ecosistema de Python.
+
+
+## 2) ¿Cómo nos organizamos? 👍
 La idea principal es que podamos aprender entre todos este lindo lenguaje!
 
 La **metodología** que usamos es la siguiente:
-- 📑 Planeamos el contenido a dar en un tiempo razonable (por ejemplo: veremos Flask en 4 semanas para abarcar ciertos temas semanalmente).
-- 🏋️ Luego de cumplir con el planeamiento, daremos 1 o 2 semanas para poder realizar prácticas libres, o sea, que podamos proponernos desafíos o ejercicios personales o grupales y realizarlos.
-- 🧐 Antes de dar nuevos ejercicios, veremos lo que pudieron realizar y dar pequeñas opiniones para poder mejorar el código o simplemente felicitarlos por haber cumplido (*lamentablemente, no hay torta ni confites*)
-- 🤔 Si tenés dudas, escribilas en el canal de texto #py-study-group del servidor! Entre todos vamos a ayudarte.
+- 📢 Estaremos utilizando como medio de comunicación el canal del grupo de estudio en FrontendCafé (clic a la imagen!):
+
+<a href="https://discord.gg/frontendcafe" align="center"><img src="imgs\channel-discord.jpg" /></a>
+
+- 📢 De ser necesario, organizaremos una reunión en el canal de voz del grupo para poder comunicarnos, poder compartir ideas y resolver dudas.
+
+- 📢 Para colaborar, esta [publicación de la Wiki](https://github.com/frontendcafe/py-study-group/wiki/Colaborar)!
+
 
 🐍 Si te gustó esto y no estás en el servidor de Discord de **FrontendCafé**, no esperemes más y [haz clic aquí](https://discord.gg/frontendcafe) para empezar a participar!
 
-🚴 En un futuro cercano, propondremos un **Roadmap** para que puedan seguir todos los contenidos relacionados con Python, con **Paths personalizados** por área de estudio.
 
-## Contenido 📚
-Desde acá, podras redireccionarte directamente al tema de interés. Hay: ejercicios, material teórico, proyectos y aportes de integrantes. Si te gustaría aportar material, podés pasarnoslo desde nuestro canal en [FrontendCafé](https://discord.gg/frontendcafe) o realizando un pull request en el contenido de acá abajo:
-
-- **Ejercicios**
-    - [Ejercicios en general](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/ejerciciosGeneral)
-    - [Flask](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/Flask)
-    - [CodeWars](https://github.com/JaviCeRodriguez/py-study-group/tree/main/ejercicios/CodeWars)
-    - ...
-
-- [**Material de estudio**](https://github.com/JaviCeRodriguez/py-study-group/tree/main/materialDeEstudio)
+## 3) Contenido 📚
+- **30DaysOfPython**: Carpeta que contendrá todos los README del con la teoría y ejercicios a realizar
+- **apuntes**: Apuntes teóricos y personales para compartir con la comunidad
+- **ejercicios**: Ejercicios realizados anteriormente en la comunidad
+- **Roadmap**: Proyecto colaborativo para armar guías esenciales para aprender Python
 
 ---
 ## Colaboradores en la organización del grupo ✒️
-- **Javier Rodriguez** | [GitHub](https://github.com/JaviCeRodriguez) | [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc/) | [Twitter](https://twitter.com/javicerodriguez)
-- **Jorge Marrero** | [GitHub](https://github.com/jorgemarrero)
-- **Gabriel Fierro** | [GitHub](https://github.com/GabrielFierro)
-- **AmitSna** | [GitHub](https://github.com/AmitSna)
+
+<table align="center">
+    <tr>
+        <th>
+            Javier Rodriguez
+        </th>
+        <th>
+            Jorge Marrero
+        </th>
+        <th>
+            Marco Richetta
+        </th>
+        <th>
+            Gabriel La Torre
+        </th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/68615684?v=4" width=130 />
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/55320156?v=4" width=130 />
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/19599150?v=4" width=130 />
+        </td>
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/1574359?v=4" width=130 />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/JaviCeRodriguez">
+                <img src="imgs\icons\github.svg" width=25 />
+            </a>&emsp;
+            <a href="https://www.linkedin.com/in/rodriguezjavierc/">
+                <img src="imgs\icons\linkedin.svg" width=25 />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/jorgemarrero"><img src="imgs\icons\github.svg" width=25 /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/marcorichetta">
+                <img src="imgs\icons\github.svg" width=25 />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/shizus">
+                <img src="imgs\icons\github.svg" width=25 />
+            </a>
+        </td>
+    </tr>
+</table>
