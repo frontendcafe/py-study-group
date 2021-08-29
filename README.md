@@ -7,8 +7,8 @@ En este grupo de estudio con Python, vamos a realizar ejercicios de lo que sea: 
 ## 1) ¿Qué estamos haciendo ahora en el grupo? 🤔
 Vamos a estar haciendo 2 actividades en paralelo:
 
-### 1.1) #30DaysOfCode 📆
-Queremos progresar como desarrolladores Python, por lo que hay practicar con teoría y retos! En la carpeta [30DaysOfCode](https://github.com/frontendcafe/py-study-group/tree/main/30DaysOfCode) vamos a colocar todos los ejercicios que vayamos a realizar junto con su contenido teórico necesario para lograr resolverlos.
+### 1.1) #30DaysOfPython 📆
+Queremos progresar como desarrolladores Python, por lo que hay practicar con teoría y retos! En la carpeta [30DaysOfCode](./30DaysOfPython) vamos a colocar todos los ejercicios que vayamos a realizar junto con su contenido teórico necesario para lograr resolverlos.
 
 ### 1.2) Roadmap de Python 🚴‍♂️
 Este es un proyecto colaborativo en cual todos pueden participar. Vamos a crear una Roadmap de Python para que todos puedan seguir el camino del ecosistema de Python.
