@@ -1,6 +1,6 @@
 # 📆 30 Days of Python
 
-Cada día tomaremos un nuevo reto para aprender más sobre Python. Tomatemos este [repositorio de Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) para realizar los desafíos diarios.
+Cada día tomaremos un nuevo reto para aprender más sobre Python. Tomaremos este [repositorio de Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) para realizar los desafíos diarios.
 
 Iremos subiendo soluciones de los desafíos. Si hay varias versiones de un mismo problema, lo subimos también!
 
