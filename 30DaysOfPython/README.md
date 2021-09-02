@@ -2,10 +2,15 @@
 
 Cada día tomaremos un nuevo reto para aprender más sobre Python. Tomaremos este [repositorio de Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python) para realizar los desafíos diarios.
 
-Iremos subiendo soluciones de los desafíos. Si hay varias versiones de un mismo problema, lo subimos también!
+Iremos subiendo soluciones de los desafíos en la tabla de abajo. Si hay varias versiones de un mismo problema, lo subimos también!
 
+## ¿Cómo participo? 🤔
 
-## Días
+- Simplemente, tenés que hacer los desafíos diarios.
+- Los tenés que subir a un repositorio nuevo (o a un fork del repositorio de Asabeneh).
+- Tenés que pasarnos tus soluciones al canal del grupo de estudio para darte un review! (si es necesario)
+
+## Días 📆
 
 <table align="center">
     <tr>
@@ -16,17 +21,27 @@ Iremos subiendo soluciones de los desafíos. Si hay varias versiones de un mismo
     <tr>
         <td>1</td>
         <td>Introduction</td>
-        <td></td>
+        <td>
+            - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_1">JaviCeRodriguez</a><br>
+            - <a href="https://github.com/DamianPalavecino/30DaysOfPython/tree/main/day1_introduction">DamianPalavecino</a><br>
+            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day1_Introduction">JorgeR3nteria</a>
+        </td>
     </tr>
     <tr>
         <td>2</td>
         <td>Variables, Built-in Functions</td>
-        <td></td>
+        <td>
+            - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_2">JaviCeRodriguez</a><br>
+            - <a href="https://github.com/DamianPalavecino/30DaysOfPython/tree/main/day2_variables_builtin_functions">DamianPalavecino</a><br>
+            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day2_variables_builtin_function">JorgeR3nteria</a>
+        </td>
     </tr>
     <tr>
         <td>3</td>
         <td>Operators</td>
-        <td></td>
+        <td>
+            - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_1">JaviCeRodriguez</a>
+        </td>
     </tr>
     <tr>
         <td>4</td>
