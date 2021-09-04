@@ -24,7 +24,9 @@ Iremos subiendo soluciones de los desafíos en la tabla de abajo. Si hay varias 
         <td>
             - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_1">JaviCeRodriguez</a><br>
             - <a href="https://github.com/DamianPalavecino/30DaysOfPython/tree/main/day1_introduction">DamianPalavecino</a><br>
-            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day1_Introduction">JorgeR3nteria</a>
+            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day1_Introduction">JorgeR3nteria</a><br>
+            - <a href="https://github.com/anhg02/30DaysOfPyhton/tree/main/Day1">anhg02</a><br>
+            - <a href="https://github.com/pachecurita/30DaysOfPython/tree/main/01_day">pachecurita</a><br>
         </td>
     </tr>
     <tr>
@@ -33,7 +35,9 @@ Iremos subiendo soluciones de los desafíos en la tabla de abajo. Si hay varias 
         <td>
             - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_2">JaviCeRodriguez</a><br>
             - <a href="https://github.com/DamianPalavecino/30DaysOfPython/tree/main/day2_variables_builtin_functions">DamianPalavecino</a><br>
-            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day2_variables_builtin_function">JorgeR3nteria</a>
+            - <a href="https://github.com/JorgeR3nteria/30DAYSOFPYTHON/tree/main/Day2_variables_builtin_function">JorgeR3nteria</a><br>
+            - <a href="https://github.com/anhg02/30DaysOfPyhton/tree/main/Day2">anhg02</a><br>
+            - <a href="https://github.com/pachecurita/30DaysOfPython/tree/main/02_day">pachecurita</a><br>
         </td>
     </tr>
     <tr>
@@ -46,12 +50,16 @@ Iremos subiendo soluciones de los desafíos en la tabla de abajo. Si hay varias 
     <tr>
         <td>4</td>
         <td>Strings</td>
-        <td></td>
+        <td>
+            - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_4">JaviCeRodriguez</a><br>
+        </td>
     </tr>
     <tr>
         <td>5</td>
         <td>Lists</td>
-        <td></td>
+        <td>
+            - <a href="https://github.com/JaviCeRodriguez/30DaysOfPython/tree/main/day_5">JaviCeRodriguez</a><br>
+        </td>
     </tr>
     <tr>
         <td>6</td>
