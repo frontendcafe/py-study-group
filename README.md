@@ -13,6 +13,9 @@ Queremos progresar como desarrolladores Python, por lo que hay practicar con teo
 ### 1.2) Roadmap de Python 🚴‍♂️
 Este es un proyecto colaborativo en cual todos pueden participar. Vamos a crear una Roadmap de Python para que todos puedan seguir el camino del ecosistema de Python.
 
+### 1.3) ✨ Proyectos! ✨
+Queremos poner en práctica todo lo que fuimos aprendiendo, seguir aprendiendo y/o prepararnos para entrevistas técnicas. Esto significa una sola cosa: PROYECTOS!. Vamos a estar realizando proyectos con los miembros del grupo de estudio, aplicando un stack tecnológico y mostrarlo junto a nuestro portfolio 😃. Más info, en [este enlace](./proyectos).
+
 
 ## 2) ¿Cómo nos organizamos? 👍
 La idea principal es que podamos aprender entre todos este lindo lenguaje!
@@ -31,10 +34,11 @@ La **metodología** que usamos es la siguiente:
 
 
 ## 3) Contenido 📚
+- **Proyectos**: Proyectos de los integrantes del grupo de estudio.
 - **30DaysOfPython**: Carpeta que contendrá todos los README del con la teoría y ejercicios a realizar
+- **Roadmap**: Proyecto colaborativo para armar guías esenciales para aprender Python
 - **apuntes**: Apuntes teóricos y personales para compartir con la comunidad
 - **ejercicios**: Ejercicios realizados anteriormente en la comunidad
-- **Roadmap**: Proyecto colaborativo para armar guías esenciales para aprender Python
 
 ---
 ## Colaboradores en la organización del grupo ✒️
