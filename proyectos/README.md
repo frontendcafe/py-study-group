@@ -6,6 +6,7 @@ Entonces, la propuesto del grupo de estudio es realizar proyectos (individuales 
 ## 👀 Modalidad
 
 Estaremos realizando las actividades de la siguiente manera:
+
 ✅ Elegir un proyecto
 
 ✅ Definir el stack tecnológico a utilizar
